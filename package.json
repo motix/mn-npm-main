@@ -1,0 +1,20 @@
+{
+  "name": "mn-npm-main",
+  "version": "1.0.0",
+  "description": "Recursively get all main files in your project's npm packages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motix/mn-npm-main.git"
+  },
+  "author": "Motix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motix/mn-npm-main/issues"
+  },
+  "homepage": "https://github.com/motix/mn-npm-main#readme",
+  "dependencies": {
+    "caller": "^1.0.1",
+    "glob": "^7.1.3"
+  }
+}
